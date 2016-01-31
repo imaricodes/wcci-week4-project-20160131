@@ -1,0 +1,5 @@
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wcci-week4-project-20160131\wcci-week4-project-20160131\bin\Debug\wcci-week4-project-20160131.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wcci-week4-project-20160131\wcci-week4-project-20160131\bin\Debug\wcci-week4-project-20160131.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wcci-week4-project-20160131\wcci-week4-project-20160131\bin\Debug\wcci-week4-project-20160131.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wcci-week4-project-20160131\wcci-week4-project-20160131\obj\Debug\wcci-week4-project-20160131.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wcci-week4-project-20160131\wcci-week4-project-20160131\obj\Debug\wcci-week4-project-20160131.pdb
